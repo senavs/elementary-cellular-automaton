@@ -12,10 +12,8 @@ The evolution of a one-dimensional cellular automaton can be illustrated by star
 
 ## Generated images
 
-* Rule 30
-
 |Rule 30|Rule 60|
-|-|-|
+|:-:|:-:|
 |![generated gif with rule 30](rules/rule30.gif)|![generated gif with rule 60](rules/rule60.gif)|
 |Rule 90|Rule 126|
 |![generated gif with rule 65](rules/rule65.gif)|![generated gif with rule 126](rules/rule126.gif)|
