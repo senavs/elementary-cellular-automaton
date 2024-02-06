@@ -8,8 +8,17 @@ The simplest class of one-dimensional cellular automata. Elementary cellular aut
 
 The evolution of a one-dimensional cellular automaton can be illustrated by starting with the initial state (generation zero) in the first row, the first generation on the second row, and so on. For example, the figure above illustrated the first 20 generations of the rule 30 elementary cellular automaton starting with a single black cell.
 
-![rules](https://mathworld.wolfram.com/images/eps-svg/ElementaryCARules_900.svg)
-
 > For me info: https://mathworld.wolfram.com/ElementaryCellularAutomaton.html
 
 ## Generated images
+
+* Rule 30
+
+|Rule 30|Rule 60|
+|-|-|
+|![generated gif with rule 30](rules/rule30.gif)|![generated gif with rule 60](rules/rule60.gif)|
+|Rule 90|Rule 126|
+|![generated gif with rule 65](rules/rule65.gif)|![generated gif with rule 126](rules/rule126.gif)|
+|Rule 90|Rule 126|
+|![generated gif with rule 99](rules/rule99.gif)|![generated gif with rule 90](rules/rule90.gif)|
+
